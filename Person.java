@@ -4,6 +4,7 @@ public class Person {
 	
 	// For encapsulation, it is good to keep class attributes private.
 	private String name; 
+	private String age;
 	
 	// You will need at least one constructor
 	public Person() {
